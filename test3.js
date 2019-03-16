@@ -1,1 +1,2 @@
-console.log("learning git and github");
+console.log("learning git and github")
+getElementsByClassName('className');
