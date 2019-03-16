@@ -3,4 +3,5 @@ body{
   font-size: 10px;
   background-repeat: no-repeat;
   padding: 20px;
+  background-image: image();
 }
